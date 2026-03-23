@@ -1,4 +1,4 @@
-#readme
+# readme
 
 paper link https://arxiv.org/abs/2506.19243
 
@@ -6,7 +6,7 @@ LBFGS.py: modified LBFGS
 
 modified*: SS-Broyden optimizers, from https://github.com/jorgeurban/self_scaled_algorithms_pinns
 
-##Files of the 2D Boussinesq example
+## Files of the 2D Boussinesq example
 
 bous_final.ipynb: main file
 
@@ -18,7 +18,7 @@ results.pkl: losses of Adam
 
 losses.pkl: losses of SS-Broyden
 
-##Files of the Burgers example:
+## Files of the Burgers example:
 
 cutoffbur(04).ipynb: main file using exact asymptotics for lambda=0.5(0.4)
 
