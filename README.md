@@ -1,6 +1,7 @@
 #readme
 
 paper link https://arxiv.org/abs/2506.19243
+
 LBFGS.py: modified LBFGS
 
 modified*: SS-Broyden optimizers, from https://github.com/jorgeurban/self_scaled_algorithms_pinns
